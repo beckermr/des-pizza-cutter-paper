@@ -1,2 +1,3 @@
-# des-pizza-cutter-paper
-paper describing cell-based coadding in DES
+# deep-field-metacal-paper
+
+paper for deep-field metacalibration

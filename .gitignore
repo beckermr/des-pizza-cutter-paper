@@ -274,3 +274,9 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+
+descellsNotes.bib
+descells.pdf
+
+.ipynb_checkpoints/*
